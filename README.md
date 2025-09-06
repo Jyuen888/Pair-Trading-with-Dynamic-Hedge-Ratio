@@ -5,4 +5,6 @@ We use state space model, i.e. the Kalman Filter to update the hedge ratio for e
 
 We also provide a brief introduction and the derivation of some of the parameters used for the Kalman Filter system.
 
+The backtest and simulation is done in Jupyter notebook.
+
 <img width="566" height="438" alt="image" src="https://github.com/user-attachments/assets/30e0affb-e81c-49f9-890f-6941359569a5" />
